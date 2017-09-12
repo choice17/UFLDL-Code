@@ -1,3 +1,5 @@
+# home work practice for below source:
+
 stanford_dl_ex
 ==============
 
@@ -9,3 +11,5 @@ If you have suggestions, questions, or bug reports, please submit contact:
 
 Andrew Maas ( amaas AT cs dot stanford.edu)
 Sameep Tandon (sameep AT stanford dot edu)
+
+# work assignment completed @ 12/9/17
